@@ -1,5 +1,5 @@
-<h1 align="center"> <img src="https://github.com/forsign-digital/a-member/blob/main/e4b738b-small-a.png" width="150"> </h1>
-<h2 align="center"> Welcome to Forsign Digital. </h2>
+<h1 align="center"> <img src="https://github.com/forsign-digital/a-member/blob/main/e4b738b-small-a.png" width="500"> </h1>
+# Welcome to Forsign Digital.
 
 
 **So here is a series of questions and answers about us!**
