@@ -1,11 +1,15 @@
 # a-member
 \o/ Repository of tech positions at https://forsign.digital
 
+<h1 align="center"> Welcome to Forsign Digital. </h1>
 
-**What is Forsign Digital?**
-Empowering developers to create document workflows in minutes. Create documents, forms and electronic signature in your own app.
+**So here is a series of questions and answers about us!**
 
-## And what is the culture of Forsign, this "full of purpose" place?
+### Who we are?
+
+A company focused on delivering formalization software solution with better experience and legal robustness for contracting in the digital environment.
+
+## What is our purpose?
 
 ### Firstly
 
