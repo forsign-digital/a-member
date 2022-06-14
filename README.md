@@ -13,7 +13,7 @@ A company focused on delivering formalization software solution with better expe
 build a resilient and scalable solution for handling documents, forms and electronic signatures.
 
 
-### How are we doing this?
+## How are we doing this?
 
 With an engineering team focused on product development and value delivery based on small deliveries through the SCRUM methodology!
 
@@ -26,7 +26,7 @@ With an engineering team focused on product development and value delivery based
 * Azure and Docker
 
 
-### And where can i find `Forsign Digital`?
+## And where can i find `Forsign Digital`?
 
 You can learn a little more about us through our official documentation! [Forsign Digital](https://doc.forsign.digital/reference/documentation)
 
