@@ -1,7 +1,7 @@
 # a-member
 \o/ Repository of tech positions at https://forsign.digital
 
-<h1 align="center"> Welcome to Forsign Digital. </h1>
+<h1 align="center">:bee: Welcome to Forsign Digital. :bee:</h1>
 
 **So here is a series of questions and answers about us!**
 
