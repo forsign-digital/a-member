@@ -27,4 +27,4 @@ With an engineering team focused on product development and value delivery based
 
 ### And where do we find `Forsign Digital`?
 
-You can learn a little more about us through our official documentation! [Forsign Digital] (https://doc.forsign.digital/reference/documentation)
+You can learn a little more about us through our official documentation! [Forsign Digital](https://doc.forsign.digital/reference/documentation)
