@@ -7,12 +7,17 @@
 ### Who we are?
 
 A company focused on delivering formalization software solution with better experience and legal robustness for contracting in the digital environment.
-
 So If you're looking for an efficient way to manage your workflow, count on our!
 
-### What is our purpose?
-
 ### Firstly
+
+### Our culture.
+
+ - We are a multidisciplinary group of people, responsible for carrying out the product development work from end to end.
+ - We develop knowledge and technology that make people's lives easier and faster.
+ - And like any good team we have our daily coffee to make small talk. ☕☕
+
+### What is our purpose?
 
 Build a resilient and scalable solution for handling documents, forms and electronic signatures.
 
