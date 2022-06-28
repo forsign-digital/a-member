@@ -2,18 +2,25 @@
 
 ---
 
-## And here is a series of questions and answers about us!
+### And here is a series of questions and answers about us!
 
 ### Who we are?
 
 A company focused on delivering formalization software solution with better experience and legal robustness for contracting in the digital environment.
 
-## What is our purpose?
+So If you're looking for an efficient way to manage your workflow, count on our!
+
+### What is our purpose?
 
 ### Firstly
 
-build a resilient and scalable solution for handling documents, forms and electronic signatures.
+Build a resilient and scalable solution for handling documents, forms and electronic signatures.
 
+Our focus is to create a robust, bureaucratic-free and completely digital signature flow,
+
+All in real time and with an easy integration, what does that mean?
+
+with our solution you can follow updates in real time, with autonomy to trigger actions whenever you need.
 
 ## How are we doing this?
 
