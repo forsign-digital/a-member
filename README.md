@@ -1,5 +1,7 @@
 <h1 align="center"> Welcome to Forsign Digital. <img src="https://github.com/forsign-digital/a-member/blob/main/e4b738b-small-a.png" width="150"> </h1>
 
+---
+
 ## And here is a series of questions and answers about us!
 
 ### Who we are?
