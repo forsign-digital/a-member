@@ -1,23 +1,26 @@
 <h1 align="center"><img src="https://github.com/forsign-digital/a-member/blob/main/1656102175856.jpg" width="50"> Welcome to Forsign Digital. <img src="https://github.com/forsign-digital/a-member/blob/main/1656102175856.jpg" width="50"> </h1>
 
----
+----
 
 ### And here is a series of questions and answers about us!
 
-### Who we are?
+ ### Who we are? ✅
 
 A company focused on delivering formalization software solution with better experience and legal robustness for contracting in the digital environment.
 
 So If you're looking for an efficient way to manage your workflow, count on our!
 
+----
 
-### And about our culture?
+ ### And about our culture? ✌🏾
 
  * We are a multidisciplinary group of people, responsible for carrying out the product development work from end to end.
  * We develop knowledge and technology that make people's lives easier and faster.
  * And like any good team we have our daily coffee to make small talk. 😅☕☕
 
-### What is our purpose?
+----
+
+ ### What is our purpose? 🎯
 
 Build a resilient and scalable solution for handling documents, forms and electronic signatures.
 
@@ -27,11 +30,16 @@ All in real time and with an easy integration, what does that mean?
 
 with our solution you can follow updates in real time, with autonomy to trigger actions whenever you need.
 
-## How are we doing this?
+----
+
+ ## How are we doing this? 🔑
 
 With an engineering team focused on product development and value delivery based on small deliveries through the SCRUM methodology!
+<br/>
 
-### And what tools have we been using?
+----
+
+ ### And what tools have we been using? 🔨
 
 * .Net Core
 * C# 9+
@@ -39,8 +47,9 @@ With an engineering team focused on product development and value delivery based
 * PostgreSQL
 * Azure and Docker
 
+----
 
-## And where can i find `Forsign Digital`?
+ ## And where can i find `Forsign Digital`? 🔎
 
 You can learn a little more about us through our official web site! [Forsign Digital](https://www.forsign.digital/)
 
