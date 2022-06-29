@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/forsign-digital/a-member/blob/main/1656102175856.jpg" width="50"> Welcome to Forsign Digital. <img src="https://github.com/forsign-digital/a-member/blob/main/1656102175856.jpg" width="50"> </h1>
+<h1 align="center"><img src="https://github.com/forsign-digital/a-member/blob/main/ForSign-Logotipo_Aurora%20Icone%20Colorido.svg" width="50"> Welcome to Forsign Digital. <img src="https://github.com/forsign-digital/a-member/blob/main/ForSign-Logotipo_Aurora%20Icone%20Colorido.svg" width="50"> </h1>
 
 ----
 
