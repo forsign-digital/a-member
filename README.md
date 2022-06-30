@@ -59,5 +59,9 @@ You can learn a little more about us through our official web site! [Forsign Dig
 
 ### Or
 
-Take a peek at our [Linkedin!](https://www.linkedin.com/company/formalizar-e-signature/mycompany/) 
+Take a peek at our
+
+[![Linkedin: Forsign](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/formalizar-e-signature/mycompany/)](https://www.linkedin.com/company/formalizar-e-signature/mycompany/)
+
+
 
